@@ -1,24 +1,21 @@
-<h1 align="center"> Alphabetical Sorter - VScode Extension </h1>
+<h1 align="center">Vuex Alphabetical Sorter - VScode Extension </h1>
 
-<p align="center"> Easy way for sorting alphabetical! 😎</p>
+<p align="center"> Sort Vuex mapState, mapActions, mapGetters on save</p>
 
-<p align="center"> Visual Studio Code Extension - You can use in multi line or single for sorting.</p>
-<p align="center"><img align="center" src="https://media.giphy.com/media/28evaf0snirPcDCigC/giphy.gif"/></p>
+<p align="center"> Visual Studio Code Extension - just hit Cmd + S for sorting.</p>
 
 ## Install
 
-Click to extension tab and search `Alphabetical Sorter` and install it reload your editor. Or use this [Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=ue.alphabetical-sorter).
+Click to extension tab and search `Vuex Alphabetical Sorter` and install it reload your editor. Or use this [Vuex Alphabetical Sorter](https://marketplace.visualstudio.com/items?itemName=suddham.vuex-alphabetical-sorter).
 
 ## Usage
 
-Select the desired ones(supports for kind variable).
-Using Command Palette (CMD/CTRL + SHIFT + A) Or
-`Cmd+Shift+P` and select `Alphabetical Sorter` thats it.
+Hit CMD + S thats it.
 
 ## For questions
 
-[Repo](https://github.com/ue/alphabetical-sorter)
+[Repo](https://github.com/suddham/vuex-alphabetical-sorter)
 
 ## License
 
-MIT © [UE](https://github.com/ue)
+MIT © [UE](https://github.com/suddham)

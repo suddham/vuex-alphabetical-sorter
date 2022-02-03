@@ -1,21 +1,21 @@
 {
-  "name": "alphabetical-sorter",
-  "displayName": "Alphabetical Sorter",
-  "description": "Multi line or single line alphabetical sorter.",
-  "version": "2.0.1",
+  "name": "vuex-alphabetical-sorter",
+  "displayName": "Vuex Alphabetical Sorter",
+  "description": "Auto sort alphabetically Vuex functions in Vue",
+  "version": "0.0.1",
   "icon": "images/icon.png",
-  "publisher": "ue",
+  "publisher": "suddham",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ue/alphabetical-sorter.git"
+    "url": "https://github.com/suddham/vuex-alphabetical-sorter"
   },
   "bugs": {
-    "url": "https://github.com/ue/alphabetical-sorter/issues",
-    "email": "ugurerdal93@gmail.com"
+    "url": "https://github.com/suddham/vuex-alphabetical-sorter/issues",
+    "email": "suddha1@gmail.com"
   },
   "engines": {
-    "vscode": "^1.20.0"
+    "vscode": "^1.60.0"
   },
   "categories": ["Formatters"],
   "activationEvents": ["onCommand:extension.sortIt"],
@@ -24,7 +24,7 @@
     "commands": [
       {
         "command": "extension.sortIt",
-        "title": "Alphabetical Sorter"
+        "title": "Vuex Alphabetical Sorter"
       }
     ],
     "keybindings": [
@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "typescript": "^2.6.1",
-    "vscode": "^1.1.6",
+    "vscode": "^1.60",
     "eslint": "^4.11.0",
     "@types/node": "^7.0.43",
     "@types/mocha": "^2.2.42"
